@@ -1,0 +1,19 @@
+.main {
+    width: 227px;
+    margin: auto;
+    border: 1px solid #988c8c;
+    padding: 10px;
+    text-align: center;
+}
+
+.main img {
+    width: 200px;
+}
+button {
+    border: none;
+    background: #0043ff;
+    padding: 5px 25px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}

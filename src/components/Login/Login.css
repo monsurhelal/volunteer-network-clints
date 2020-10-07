@@ -1,0 +1,41 @@
+.logo img {
+    width: 200px;
+}
+
+.logo {
+    width: 250px;
+    margin: auto;
+    margin-top: 50px;
+}
+.signIn-box {
+    width: 500px;
+    margin: auto;
+    margin-top: 65px;
+    border: 1px solid#a2a2a2;
+    text-align: center;
+}
+
+.signIn-box h4 {
+    margin-top: 50px;
+    padding: 20px;
+}
+p.signIn {
+    width: 390px;
+    margin: auto;
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 28px;
+    cursor: pointer;
+}
+p.create {
+    margin-bottom: 80px;
+}
+p.signIn i {
+    font-size: 31px;
+    color: #20b771;
+    position: relative;
+    left: -65px;
+    top: 3px;
+}
